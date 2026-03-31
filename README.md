@@ -11,6 +11,10 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 - 💬 Ask me about DevOps, CI/CD, observability, infrastructure as code, security, container orchestrators and more
 - 📫 [LinkedIn](https://www.linkedin.com/in/rhys-mcneill-cybsec/) · [Email](mailto:rhysmcneill7@hotmail.co.uk)
 
+### Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rhysmcneill&theme=radical)
+
+
 ## Featured Projects
 
 ### 🤖 [Agentic AI Config Library](https://github.com/rhysmcneill/agentic-ai-library)
