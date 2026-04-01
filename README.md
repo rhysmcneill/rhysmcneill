@@ -18,16 +18,17 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Featured Projects
 
 ### 🤖 [Agentic AI Config Library](https://github.com/rhysmcneill/agentic-ai-library)
-A centralized library of AI agent rules and skills that propagate to all repos via symlinks.
+A centralized library of AI agent rules and skills that propagate to all repos via symlinks and generated indexes. Useful for orchestrating agent skills across a company, project or team. 
 
-### 🏗️ [Infrastructure Platform](https://github.com/rhysmcneill/terramate-poc)
-Creating a proof of concept on how platform engineers can use Terramate Catalyst to promote DevEx 
+### 🏗️ [Infrastructure Abstraction for DevEx](https://github.com/rhysmcneill/terramate-poc)
+Creating a proof of concept on how platform engineers can use Terramate Catalyst to promote DevEx internally within an organisation to allow developers to deploy infrastructure using absraction layers.
 
 ## Currently Building
 
-- 🤖 An agentic AI skills library for standardizing AI agent behavior across repos
-- 📊 A full observability stack with Grafana, Mimir, Loki, and Tempo
-- 🚀 GitOps pipelines with ArgoCD and GitHub Actions
+- 🤖 An agentic AI skills library for standardizing AI agent behavior across companies, projects, teams and repositories.
+- 🛡️ Contributing to [Skylos](https://github.com/duriantaco/skylos), Open-Source Python, TypeScript and Golang SAST, Dead Code Detection, and AI Code Security
+- ⌨️ I am a core contributor and maintainer of [Typo](https://github.com/yuluo-yx/typo), a fully Open-Source Golang CLI that is replacing TheFuck - It does what it says, fixes all your CLI typos.
+- 🚀 GitOps pipelines with ArgoCD and help OSS projects set up release pipelines via GitHub Actions
 
 ## Stack
 
