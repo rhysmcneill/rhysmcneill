@@ -17,7 +17,7 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 
 ## Currently Building
 
-- 🤖 ACtively building an agentic AI skills library called [agentic-ai-library](https://github.com/rhysmcneill/agentic-ai-library) for standardizing and orchestrating AI agent behavior across companies, projects, teams and repositories.
+- 🤖 Actively building an agentic AI skills library called [agentic-ai-library](https://github.com/rhysmcneill/agentic-ai-library) for standardizing and orchestrating AI agent behavior across companies, projects, teams and repositories.
 - 🛡️ Contributing to [Skylos](https://github.com/duriantaco/skylos), Open-Source Python, TypeScript and Golang SAST, Dead Code Detection, and AI Code Security
 - ⌨️ I am a core contributor and maintainer of [Typo](https://github.com/yuluo-yx/typo), a fully Open-Source Golang CLI that is replacing TheFuck - It does what it says, fixes all your CLI typos.
 - 🚀 GitOps pipelines with ArgoCD and help OSS projects set up release pipelines via GitHub Actions
