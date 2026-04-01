@@ -15,17 +15,9 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rhysmcneill&theme=radical)
 
 
-## Featured Projects
-
-### 🤖 [Agentic AI Config Library](https://github.com/rhysmcneill/agentic-ai-library)
-A centralized library of AI agent rules and skills that propagate to all repos via symlinks and generated indexes. Useful for orchestrating agent skills across a company, project or team. 
-
-### 🏗️ [Infrastructure Abstraction for DevEx](https://github.com/rhysmcneill/terramate-poc)
-Creating a proof of concept on how platform engineers can use Terramate Catalyst to promote DevEx internally within an organisation to allow developers to deploy infrastructure using absraction layers.
-
 ## Currently Building
 
-- 🤖 An agentic AI skills library for standardizing AI agent behavior across companies, projects, teams and repositories.
+- 🤖 ACtively building an agentic AI skills library called [agentic-ai-library](https://github.com/rhysmcneill/agentic-ai-library) for standardizing and orchestrating AI agent behavior across companies, projects, teams and repositories.
 - 🛡️ Contributing to [Skylos](https://github.com/duriantaco/skylos), Open-Source Python, TypeScript and Golang SAST, Dead Code Detection, and AI Code Security
 - ⌨️ I am a core contributor and maintainer of [Typo](https://github.com/yuluo-yx/typo), a fully Open-Source Golang CLI that is replacing TheFuck - It does what it says, fixes all your CLI typos.
 - 🚀 GitOps pipelines with ArgoCD and help OSS projects set up release pipelines via GitHub Actions
@@ -64,5 +56,9 @@ Creating a proof of concept on how platform engineers can use Terramate Catalyst
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-# Activity
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhysmcneill&theme=redical)
