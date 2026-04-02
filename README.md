@@ -59,16 +59,16 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#152](https://github.com/duriantaco/skylos/issues/152#issuecomment-4175187024) in [duriantaco/skylos](https://github.com/duriantaco/skylos)
-2. 🎉 Merged PR [#25](https://github.com/yuluo-yx/typo/pull/25) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-3. 🎉 Merged PR [#1443](https://github.com/TorchIO-project/torchio/pull/1443) in [TorchIO-project/torchio](https://github.com/TorchIO-project/torchio)
-4. 🗣 Commented on [#1440](https://github.com/TorchIO-project/torchio/issues/1440#issuecomment-4172961901) in [TorchIO-project/torchio](https://github.com/TorchIO-project/torchio)
-5. 💪 Opened PR [#1443](https://github.com/TorchIO-project/torchio/pull/1443) in [TorchIO-project/torchio](https://github.com/TorchIO-project/torchio)
-6. ❗ Opened issue [#13700](https://github.com/docker/compose/issues/13700) in [docker/compose](https://github.com/docker/compose)
-7. 🗣 Commented on [#1440](https://github.com/TorchIO-project/torchio/issues/1440#issuecomment-4172596243) in [TorchIO-project/torchio](https://github.com/TorchIO-project/torchio)
-8. 🔒 Closed issue [#3](https://github.com/yuluo-yx/typo/issues/3) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-9. 🗣 Commented on [#3](https://github.com/yuluo-yx/typo/issues/3#issuecomment-4172364817) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-10. 🗣 Commented on [#21](https://github.com/yuluo-yx/typo/issues/21#issuecomment-4171020886) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+1. ❗ Opened issue [#28](https://github.com/yuluo-yx/typo/issues/28) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+2. ❗ Opened issue [#27](https://github.com/yuluo-yx/typo/issues/27) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+3. 💪 Opened PR [#26](https://github.com/yuluo-yx/typo/pull/26) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+4. 🗣 Commented on [#152](https://github.com/duriantaco/skylos/issues/152#issuecomment-4175187024) in [duriantaco/skylos](https://github.com/duriantaco/skylos)
+5. 🎉 Merged PR [#25](https://github.com/yuluo-yx/typo/pull/25) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+6. 🎉 Merged PR [#1443](https://github.com/TorchIO-project/torchio/pull/1443) in [TorchIO-project/torchio](https://github.com/TorchIO-project/torchio)
+7. 🗣 Commented on [#1440](https://github.com/TorchIO-project/torchio/issues/1440#issuecomment-4172961901) in [TorchIO-project/torchio](https://github.com/TorchIO-project/torchio)
+8. 💪 Opened PR [#1443](https://github.com/TorchIO-project/torchio/pull/1443) in [TorchIO-project/torchio](https://github.com/TorchIO-project/torchio)
+9. ❗ Opened issue [#13700](https://github.com/docker/compose/issues/13700) in [docker/compose](https://github.com/docker/compose)
+10. 🗣 Commented on [#1440](https://github.com/TorchIO-project/torchio/issues/1440#issuecomment-4172596243) in [TorchIO-project/torchio](https://github.com/TorchIO-project/torchio)
 <!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhysmcneill&theme=redical)
