@@ -59,16 +59,16 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1443](https://github.com/TorchIO-project/torchio/pull/1443) in [TorchIO-project/torchio](https://github.com/TorchIO-project/torchio)
-2. 🗣 Commented on [#1440](https://github.com/TorchIO-project/torchio/issues/1440#issuecomment-4172961901) in [TorchIO-project/torchio](https://github.com/TorchIO-project/torchio)
-3. 💪 Opened PR [#1443](https://github.com/TorchIO-project/torchio/pull/1443) in [TorchIO-project/torchio](https://github.com/TorchIO-project/torchio)
-4. ❗ Opened issue [#13700](https://github.com/docker/compose/issues/13700) in [docker/compose](https://github.com/docker/compose)
-5. 🗣 Commented on [#1440](https://github.com/TorchIO-project/torchio/issues/1440#issuecomment-4172596243) in [TorchIO-project/torchio](https://github.com/TorchIO-project/torchio)
-6. 🔒 Closed issue [#3](https://github.com/yuluo-yx/typo/issues/3) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-7. 🗣 Commented on [#3](https://github.com/yuluo-yx/typo/issues/3#issuecomment-4172364817) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-8. 🗣 Commented on [#21](https://github.com/yuluo-yx/typo/issues/21#issuecomment-4171020886) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-9. 💪 Opened PR [#25](https://github.com/yuluo-yx/typo/pull/25) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-10. ℹ️ Assigned issue [#20](https://github.com/yuluo-yx/typo/issues/20) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+1. 🎉 Merged PR [#25](https://github.com/yuluo-yx/typo/pull/25) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+2. 🎉 Merged PR [#1443](https://github.com/TorchIO-project/torchio/pull/1443) in [TorchIO-project/torchio](https://github.com/TorchIO-project/torchio)
+3. 🗣 Commented on [#1440](https://github.com/TorchIO-project/torchio/issues/1440#issuecomment-4172961901) in [TorchIO-project/torchio](https://github.com/TorchIO-project/torchio)
+4. 💪 Opened PR [#1443](https://github.com/TorchIO-project/torchio/pull/1443) in [TorchIO-project/torchio](https://github.com/TorchIO-project/torchio)
+5. ❗ Opened issue [#13700](https://github.com/docker/compose/issues/13700) in [docker/compose](https://github.com/docker/compose)
+6. 🗣 Commented on [#1440](https://github.com/TorchIO-project/torchio/issues/1440#issuecomment-4172596243) in [TorchIO-project/torchio](https://github.com/TorchIO-project/torchio)
+7. 🔒 Closed issue [#3](https://github.com/yuluo-yx/typo/issues/3) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+8. 🗣 Commented on [#3](https://github.com/yuluo-yx/typo/issues/3#issuecomment-4172364817) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+9. 🗣 Commented on [#21](https://github.com/yuluo-yx/typo/issues/21#issuecomment-4171020886) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+10. 💪 Opened PR [#25](https://github.com/yuluo-yx/typo/pull/25) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
 <!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhysmcneill&theme=redical)
