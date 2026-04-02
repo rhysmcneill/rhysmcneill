@@ -59,16 +59,16 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#27](https://github.com/yuluo-yx/typo/issues/27) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-2. 🔒 Closed issue [#28](https://github.com/yuluo-yx/typo/issues/28) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-3. 🗣 Commented on [#28](https://github.com/yuluo-yx/typo/issues/28#issuecomment-4178378572) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-4. 🗣 Commented on [#24](https://github.com/yuluo-yx/typo/pull/24#issuecomment-4178369635) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-5. 🗣 Commented on [#24](https://github.com/yuluo-yx/typo/pull/24#issuecomment-4178352674) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-6. 🎉 Merged PR [#26](https://github.com/yuluo-yx/typo/pull/26) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-7. ❗ Opened issue [#2319](https://github.com/terramate-io/terramate/issues/2319) in [terramate-io/terramate](https://github.com/terramate-io/terramate)
-8. ℹ️ Labeled issue [#31](https://github.com/yuluo-yx/typo/issues/31) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-9. ℹ️ Labeled issue [#30](https://github.com/yuluo-yx/typo/issues/30) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-10. ❗ Opened issue [#31](https://github.com/yuluo-yx/typo/issues/31) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+1. 🗣 Commented on [#23](https://github.com/yuluo-yx/typo/pull/23#issuecomment-4178761749) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+2. 🗣 Commented on [#3664](https://github.com/terraform-aws-modules/terraform-aws-eks/issues/3664#issuecomment-4178539045) in [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks)
+3. ℹ️ Labeled issue [#27](https://github.com/yuluo-yx/typo/issues/27) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+4. 🔒 Closed issue [#28](https://github.com/yuluo-yx/typo/issues/28) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+5. 🗣 Commented on [#28](https://github.com/yuluo-yx/typo/issues/28#issuecomment-4178378572) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+6. 🗣 Commented on [#24](https://github.com/yuluo-yx/typo/pull/24#issuecomment-4178369635) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+7. 🗣 Commented on [#24](https://github.com/yuluo-yx/typo/pull/24#issuecomment-4178352674) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+8. 🎉 Merged PR [#26](https://github.com/yuluo-yx/typo/pull/26) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+9. ❗ Opened issue [#2319](https://github.com/terramate-io/terramate/issues/2319) in [terramate-io/terramate](https://github.com/terramate-io/terramate)
+10. ℹ️ Labeled issue [#31](https://github.com/yuluo-yx/typo/issues/31) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
 <!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhysmcneill&theme=redical)
