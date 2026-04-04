@@ -59,16 +59,16 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#154](https://github.com/duriantaco/skylos/pull/154) in [duriantaco/skylos](https://github.com/duriantaco/skylos)
-2. ❗ Opened issue [#153](https://github.com/duriantaco/skylos/issues/153) in [duriantaco/skylos](https://github.com/duriantaco/skylos)
-3. 🎉 Merged PR [#3](https://github.com/rhysmcneill/skylos/pull/3) in [rhysmcneill/skylos](https://github.com/rhysmcneill/skylos)
-4. 💪 Opened PR [#3](https://github.com/rhysmcneill/skylos/pull/3) in [rhysmcneill/skylos](https://github.com/rhysmcneill/skylos)
-5. 🎉 Merged PR [#1](https://github.com/rhysmcneill/skylos/pull/1) in [rhysmcneill/skylos](https://github.com/rhysmcneill/skylos)
-6. 💪 Opened PR [#1](https://github.com/rhysmcneill/skylos/pull/1) in [rhysmcneill/skylos](https://github.com/rhysmcneill/skylos)
-7. 🗣 Commented on [#33](https://github.com/yuluo-yx/typo/pull/33#issuecomment-4184256501) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-8. 🗣 Commented on [#34](https://github.com/yuluo-yx/typo/pull/34#issuecomment-4184218923) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-9. 🗣 Commented on [#36](https://github.com/yuluo-yx/typo/issues/36#issuecomment-4183010629) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-10. 🗣 Commented on [#30](https://github.com/yuluo-yx/typo/issues/30#issuecomment-4183001015) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+1. 🎉 Merged PR [#154](https://github.com/duriantaco/skylos/pull/154) in [duriantaco/skylos](https://github.com/duriantaco/skylos)
+2. 💪 Opened PR [#154](https://github.com/duriantaco/skylos/pull/154) in [duriantaco/skylos](https://github.com/duriantaco/skylos)
+3. ❗ Opened issue [#153](https://github.com/duriantaco/skylos/issues/153) in [duriantaco/skylos](https://github.com/duriantaco/skylos)
+4. 🎉 Merged PR [#3](https://github.com/rhysmcneill/skylos/pull/3) in [rhysmcneill/skylos](https://github.com/rhysmcneill/skylos)
+5. 💪 Opened PR [#3](https://github.com/rhysmcneill/skylos/pull/3) in [rhysmcneill/skylos](https://github.com/rhysmcneill/skylos)
+6. 🎉 Merged PR [#1](https://github.com/rhysmcneill/skylos/pull/1) in [rhysmcneill/skylos](https://github.com/rhysmcneill/skylos)
+7. 💪 Opened PR [#1](https://github.com/rhysmcneill/skylos/pull/1) in [rhysmcneill/skylos](https://github.com/rhysmcneill/skylos)
+8. 🗣 Commented on [#33](https://github.com/yuluo-yx/typo/pull/33#issuecomment-4184256501) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+9. 🗣 Commented on [#34](https://github.com/yuluo-yx/typo/pull/34#issuecomment-4184218923) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+10. 🗣 Commented on [#36](https://github.com/yuluo-yx/typo/issues/36#issuecomment-4183010629) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
 <!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhysmcneill&theme=redical)
