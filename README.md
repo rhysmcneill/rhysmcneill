@@ -59,16 +59,16 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/yuluo-yx/typo/pull/42#issuecomment-4188941186) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-2. ℹ️ Labeled issue [#44](https://github.com/yuluo-yx/typo/issues/44) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-3. ℹ️ Unlabeled issue [#44](https://github.com/yuluo-yx/typo/issues/44) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-4. ℹ️ Assigned issue [#44](https://github.com/yuluo-yx/typo/issues/44) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+1. 💪 Opened PR [#32008](https://github.com/helm/helm/pull/32008) in [helm/helm](https://github.com/helm/helm)
+2. ❗ Opened issue [#32007](https://github.com/helm/helm/issues/32007) in [helm/helm](https://github.com/helm/helm)
+3. 🗣 Commented on [#44](https://github.com/yuluo-yx/typo/issues/44#issuecomment-4188943672) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+4. 🗣 Commented on [#42](https://github.com/yuluo-yx/typo/pull/42#issuecomment-4188941186) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
 5. ℹ️ Labeled issue [#44](https://github.com/yuluo-yx/typo/issues/44) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-6. ❗ Opened issue [#44](https://github.com/yuluo-yx/typo/issues/44) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-7. ℹ️ Labeled issue [#43](https://github.com/yuluo-yx/typo/issues/43) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-8. ❗ Opened issue [#43](https://github.com/yuluo-yx/typo/issues/43) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-9. ❌ Closed PR [#2](https://github.com/rhysmcneill/typo/pull/2) in [rhysmcneill/typo](https://github.com/rhysmcneill/typo)
-10. 🗣 Commented on [#153](https://github.com/duriantaco/skylos/issues/153#issuecomment-4188884194) in [duriantaco/skylos](https://github.com/duriantaco/skylos)
+6. ℹ️ Unlabeled issue [#44](https://github.com/yuluo-yx/typo/issues/44) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+7. ℹ️ Assigned issue [#44](https://github.com/yuluo-yx/typo/issues/44) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+8. ℹ️ Labeled issue [#44](https://github.com/yuluo-yx/typo/issues/44) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+9. ❗ Opened issue [#44](https://github.com/yuluo-yx/typo/issues/44) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+10. ℹ️ Labeled issue [#43](https://github.com/yuluo-yx/typo/issues/43) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
 <!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhysmcneill&theme=redical)
