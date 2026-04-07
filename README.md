@@ -59,16 +59,16 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53](https://github.com/yuluo-yx/typo/issues/53#issuecomment-4200133419) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-2. ℹ️ Labeled issue [#4](https://github.com/yuluo-yx/typo/issues/4) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-3. ℹ️ Labeled issue [#4](https://github.com/yuluo-yx/typo/issues/4) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-4. ℹ️ Labeled issue [#5](https://github.com/yuluo-yx/typo/issues/5) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-5. ℹ️ Labeled issue [#5](https://github.com/yuluo-yx/typo/issues/5) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-6. ℹ️ Labeled issue [#27](https://github.com/yuluo-yx/typo/issues/27) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-7. ℹ️ Labeled issue [#27](https://github.com/yuluo-yx/typo/issues/27) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-8. ℹ️ Labeled issue [#30](https://github.com/yuluo-yx/typo/issues/30) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-9. ℹ️ Labeled issue [#30](https://github.com/yuluo-yx/typo/issues/30) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-10. ℹ️ Labeled issue [#44](https://github.com/yuluo-yx/typo/issues/44) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+1. ❗ Opened issue [#2557](https://github.com/go-vikunja/vikunja/issues/2557) in [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja)
+2. ❗ Opened issue [#2556](https://github.com/go-vikunja/vikunja/issues/2556) in [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja)
+3. 🗣 Commented on [#53](https://github.com/yuluo-yx/typo/issues/53#issuecomment-4200133419) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+4. ℹ️ Labeled issue [#4](https://github.com/yuluo-yx/typo/issues/4) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+5. ℹ️ Labeled issue [#4](https://github.com/yuluo-yx/typo/issues/4) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+6. ℹ️ Labeled issue [#5](https://github.com/yuluo-yx/typo/issues/5) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+7. ℹ️ Labeled issue [#5](https://github.com/yuluo-yx/typo/issues/5) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+8. ℹ️ Labeled issue [#27](https://github.com/yuluo-yx/typo/issues/27) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+9. ℹ️ Labeled issue [#27](https://github.com/yuluo-yx/typo/issues/27) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+10. ℹ️ Labeled issue [#30](https://github.com/yuluo-yx/typo/issues/30) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
 <!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhysmcneill&theme=redical)
