@@ -59,16 +59,16 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#74](https://github.com/yuluo-yx/typo/pull/74) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-2. 🗣 Commented on [#2557](https://github.com/go-vikunja/vikunja/issues/2557#issuecomment-4205962054) in [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja)
-3. 💪 Opened PR [#2568](https://github.com/go-vikunja/vikunja/pull/2568) in [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja)
-4. ❗ Opened issue [#386](https://github.com/terraform-aws-modules/terraform-aws-s3-bucket/issues/386) in [terraform-aws-modules/terraform-aws-s3-bucket](https://github.com/terraform-aws-modules/terraform-aws-s3-bucket)
-5. 🗣 Commented on [#2557](https://github.com/go-vikunja/vikunja/issues/2557#issuecomment-4205239873) in [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja)
-6. ❗ Opened issue [#173](https://github.com/duriantaco/skylos/issues/173) in [duriantaco/skylos](https://github.com/duriantaco/skylos)
-7. ❗ Opened issue [#2557](https://github.com/go-vikunja/vikunja/issues/2557) in [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja)
-8. ❗ Opened issue [#2556](https://github.com/go-vikunja/vikunja/issues/2556) in [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja)
-9. 🗣 Commented on [#53](https://github.com/yuluo-yx/typo/issues/53#issuecomment-4200133419) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-10. ℹ️ Labeled issue [#4](https://github.com/yuluo-yx/typo/issues/4) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+1. 🗣 Commented on [#75](https://github.com/yuluo-yx/typo/issues/75#issuecomment-4207597138) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+2. 💪 Opened PR [#76](https://github.com/yuluo-yx/typo/pull/76) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+3. ℹ️ Assigned issue [#75](https://github.com/yuluo-yx/typo/issues/75) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+4. ❗ Opened issue [#75](https://github.com/yuluo-yx/typo/issues/75) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+5. ℹ️ Assigned issue [#63](https://github.com/yuluo-yx/typo/issues/63) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+6. ℹ️ Assigned issue [#64](https://github.com/yuluo-yx/typo/issues/64) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+7. 💪 Opened PR [#74](https://github.com/yuluo-yx/typo/pull/74) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+8. 🗣 Commented on [#2557](https://github.com/go-vikunja/vikunja/issues/2557#issuecomment-4205962054) in [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja)
+9. 💪 Opened PR [#2568](https://github.com/go-vikunja/vikunja/pull/2568) in [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja)
+10. ❗ Opened issue [#386](https://github.com/terraform-aws-modules/terraform-aws-s3-bucket/issues/386) in [terraform-aws-modules/terraform-aws-s3-bucket](https://github.com/terraform-aws-modules/terraform-aws-s3-bucket)
 <!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhysmcneill&theme=redical)
