@@ -59,15 +59,15 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#173](https://github.com/duriantaco/skylos/issues/173) in [duriantaco/skylos](https://github.com/duriantaco/skylos)
-2. ❗ Opened issue [#2557](https://github.com/go-vikunja/vikunja/issues/2557) in [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja)
-3. ❗ Opened issue [#2556](https://github.com/go-vikunja/vikunja/issues/2556) in [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja)
-4. 🗣 Commented on [#53](https://github.com/yuluo-yx/typo/issues/53#issuecomment-4200133419) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-5. ℹ️ Labeled issue [#4](https://github.com/yuluo-yx/typo/issues/4) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+1. 🗣 Commented on [#2557](https://github.com/go-vikunja/vikunja/issues/2557#issuecomment-4205239873) in [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja)
+2. ❗ Opened issue [#173](https://github.com/duriantaco/skylos/issues/173) in [duriantaco/skylos](https://github.com/duriantaco/skylos)
+3. ❗ Opened issue [#2557](https://github.com/go-vikunja/vikunja/issues/2557) in [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja)
+4. ❗ Opened issue [#2556](https://github.com/go-vikunja/vikunja/issues/2556) in [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja)
+5. 🗣 Commented on [#53](https://github.com/yuluo-yx/typo/issues/53#issuecomment-4200133419) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
 6. ℹ️ Labeled issue [#4](https://github.com/yuluo-yx/typo/issues/4) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-7. ℹ️ Labeled issue [#5](https://github.com/yuluo-yx/typo/issues/5) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+7. ℹ️ Labeled issue [#4](https://github.com/yuluo-yx/typo/issues/4) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
 8. ℹ️ Labeled issue [#5](https://github.com/yuluo-yx/typo/issues/5) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-9. ℹ️ Labeled issue [#27](https://github.com/yuluo-yx/typo/issues/27) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+9. ℹ️ Labeled issue [#5](https://github.com/yuluo-yx/typo/issues/5) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
 10. ℹ️ Labeled issue [#27](https://github.com/yuluo-yx/typo/issues/27) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
 <!--END_SECTION:activity-->
 
