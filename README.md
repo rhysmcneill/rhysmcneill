@@ -59,16 +59,16 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/yuluo-yx/typo/pull/78) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-2. 🔒 Closed issue [#63](https://github.com/yuluo-yx/typo/issues/63) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-3. 🗣 Commented on [#63](https://github.com/yuluo-yx/typo/issues/63#issuecomment-4215028460) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-4. 💪 Opened PR [#78](https://github.com/yuluo-yx/typo/pull/78) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-5. 🗣 Commented on [#77](https://github.com/yuluo-yx/typo/issues/77#issuecomment-4214995033) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-6. ❗ Opened issue [#77](https://github.com/yuluo-yx/typo/issues/77) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-7. 🎉 Merged PR [#2568](https://github.com/go-vikunja/vikunja/pull/2568) in [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja)
-8. 🎉 Merged PR [#74](https://github.com/yuluo-yx/typo/pull/74) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-9. 🎉 Merged PR [#76](https://github.com/yuluo-yx/typo/pull/76) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-10. 🗣 Commented on [#75](https://github.com/yuluo-yx/typo/issues/75#issuecomment-4207597138) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+1. 🗣 Commented on [#77](https://github.com/yuluo-yx/typo/issues/77#issuecomment-4216127412) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+2. 🎉 Merged PR [#78](https://github.com/yuluo-yx/typo/pull/78) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+3. 🔒 Closed issue [#63](https://github.com/yuluo-yx/typo/issues/63) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+4. 🗣 Commented on [#63](https://github.com/yuluo-yx/typo/issues/63#issuecomment-4215028460) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+5. 💪 Opened PR [#78](https://github.com/yuluo-yx/typo/pull/78) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+6. 🗣 Commented on [#77](https://github.com/yuluo-yx/typo/issues/77#issuecomment-4214995033) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+7. ❗ Opened issue [#77](https://github.com/yuluo-yx/typo/issues/77) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+8. 🎉 Merged PR [#2568](https://github.com/go-vikunja/vikunja/pull/2568) in [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja)
+9. 🎉 Merged PR [#74](https://github.com/yuluo-yx/typo/pull/74) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+10. 🎉 Merged PR [#76](https://github.com/yuluo-yx/typo/pull/76) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
 <!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhysmcneill&theme=redical)
