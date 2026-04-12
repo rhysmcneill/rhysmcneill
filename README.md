@@ -59,16 +59,16 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#84](https://github.com/yuluo-yx/typo/pull/84) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-2. 🎉 Merged PR [#83](https://github.com/yuluo-yx/typo/pull/83) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-3. 💪 Opened PR [#83](https://github.com/yuluo-yx/typo/pull/83) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-4. ℹ️ Unassigned issue [#82](https://github.com/yuluo-yx/typo/issues/82) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-5. ℹ️ Assigned issue [#82](https://github.com/yuluo-yx/typo/issues/82) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-6. 🗣 Commented on [#82](https://github.com/yuluo-yx/typo/issues/82#issuecomment-4224552924) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-7. ℹ️ Assigned issue [#77](https://github.com/yuluo-yx/typo/issues/77) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-8. 🗣 Commented on [#69](https://github.com/yuluo-yx/typo/issues/69#issuecomment-4222433356) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-9. ℹ️ Assigned issue [#68](https://github.com/yuluo-yx/typo/issues/68) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-10. ℹ️ Assigned issue [#67](https://github.com/yuluo-yx/typo/issues/67) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+1. 💪 Opened PR [#88](https://github.com/yuluo-yx/typo/pull/88) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+2. 🗣 Commented on [#86](https://github.com/yuluo-yx/typo/pull/86#issuecomment-4232083273) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+3. 🔒 Closed issue [#67](https://github.com/yuluo-yx/typo/issues/67) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+4. 🗣 Commented on [#67](https://github.com/yuluo-yx/typo/issues/67#issuecomment-4232051124) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+5. 🗣 Commented on [#84](https://github.com/yuluo-yx/typo/pull/84#issuecomment-4232033236) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+6. 💪 Opened PR [#84](https://github.com/yuluo-yx/typo/pull/84) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+7. 🎉 Merged PR [#83](https://github.com/yuluo-yx/typo/pull/83) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+8. 💪 Opened PR [#83](https://github.com/yuluo-yx/typo/pull/83) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+9. ℹ️ Unassigned issue [#82](https://github.com/yuluo-yx/typo/issues/82) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+10. ℹ️ Assigned issue [#82](https://github.com/yuluo-yx/typo/issues/82) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
 <!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhysmcneill&theme=redical)
