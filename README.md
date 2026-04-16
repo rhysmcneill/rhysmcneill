@@ -59,15 +59,15 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/yuluo-yx/typo/pull/57#issuecomment-4253978630) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-2. 🗣 Commented on [#5835](https://github.com/usememos/memos/issues/5835#issuecomment-4253940600) in [usememos/memos](https://github.com/usememos/memos)
-3. 🗣 Commented on [#101](https://github.com/yuluo-yx/typo/issues/101#issuecomment-4250194905) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-4. ℹ️ Labeled issue [#101](https://github.com/yuluo-yx/typo/issues/101) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-5. ℹ️ Assigned issue [#100](https://github.com/yuluo-yx/typo/issues/100) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-6. ℹ️ Labeled issue [#104](https://github.com/yuluo-yx/typo/issues/104) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+1. 🗣 Commented on [#57](https://github.com/yuluo-yx/typo/pull/57#issuecomment-4261934673) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+2. 🗣 Commented on [#57](https://github.com/yuluo-yx/typo/pull/57#issuecomment-4253978630) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+3. 🗣 Commented on [#5835](https://github.com/usememos/memos/issues/5835#issuecomment-4253940600) in [usememos/memos](https://github.com/usememos/memos)
+4. 🗣 Commented on [#101](https://github.com/yuluo-yx/typo/issues/101#issuecomment-4250194905) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+5. ℹ️ Labeled issue [#101](https://github.com/yuluo-yx/typo/issues/101) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+6. ℹ️ Assigned issue [#100](https://github.com/yuluo-yx/typo/issues/100) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
 7. ℹ️ Labeled issue [#104](https://github.com/yuluo-yx/typo/issues/104) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-8. ❗ Opened issue [#104](https://github.com/yuluo-yx/typo/issues/104) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-9. ℹ️ Labeled issue [#103](https://github.com/yuluo-yx/typo/issues/103) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+8. ℹ️ Labeled issue [#104](https://github.com/yuluo-yx/typo/issues/104) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+9. ❗ Opened issue [#104](https://github.com/yuluo-yx/typo/issues/104) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
 10. ℹ️ Labeled issue [#103](https://github.com/yuluo-yx/typo/issues/103) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
 <!--END_SECTION:activity-->
 
