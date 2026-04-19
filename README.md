@@ -59,16 +59,16 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#117](https://github.com/yuluo-yx/typo/issues/117#issuecomment-4275727837) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-2. 🗣 Commented on [#57](https://github.com/yuluo-yx/typo/pull/57#issuecomment-4273569768) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-3. 🗣 Commented on [#1326](https://github.com/rtk-ai/rtk/issues/1326#issuecomment-4266040019) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
-4. 🗣 Commented on [#57](https://github.com/yuluo-yx/typo/pull/57#issuecomment-4261934673) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-5. 🗣 Commented on [#57](https://github.com/yuluo-yx/typo/pull/57#issuecomment-4253978630) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-6. 🗣 Commented on [#5835](https://github.com/usememos/memos/issues/5835#issuecomment-4253940600) in [usememos/memos](https://github.com/usememos/memos)
-7. 🗣 Commented on [#101](https://github.com/yuluo-yx/typo/issues/101#issuecomment-4250194905) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-8. ℹ️ Labeled issue [#101](https://github.com/yuluo-yx/typo/issues/101) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-9. ℹ️ Assigned issue [#100](https://github.com/yuluo-yx/typo/issues/100) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-10. ℹ️ Labeled issue [#104](https://github.com/yuluo-yx/typo/issues/104) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+1. 💪 Opened PR [#1093](https://github.com/schollz/croc/pull/1093) in [schollz/croc](https://github.com/schollz/croc)
+2. 🎉 Merged PR [#2](https://github.com/rhysmcneill/croc/pull/2) in [rhysmcneill/croc](https://github.com/rhysmcneill/croc)
+3. 💪 Opened PR [#2](https://github.com/rhysmcneill/croc/pull/2) in [rhysmcneill/croc](https://github.com/rhysmcneill/croc)
+4. 🎉 Merged PR [#1](https://github.com/rhysmcneill/croc/pull/1) in [rhysmcneill/croc](https://github.com/rhysmcneill/croc)
+5. 💪 Opened PR [#1](https://github.com/rhysmcneill/croc/pull/1) in [rhysmcneill/croc](https://github.com/rhysmcneill/croc)
+6. 🗣 Commented on [#117](https://github.com/yuluo-yx/typo/issues/117#issuecomment-4275727837) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+7. 🗣 Commented on [#57](https://github.com/yuluo-yx/typo/pull/57#issuecomment-4273569768) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+8. 🗣 Commented on [#1326](https://github.com/rtk-ai/rtk/issues/1326#issuecomment-4266040019) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+9. 🗣 Commented on [#57](https://github.com/yuluo-yx/typo/pull/57#issuecomment-4261934673) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+10. 🗣 Commented on [#57](https://github.com/yuluo-yx/typo/pull/57#issuecomment-4253978630) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
 <!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhysmcneill&theme=redical)
