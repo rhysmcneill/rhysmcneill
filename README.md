@@ -64,11 +64,11 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 3. 💪 Opened PR [#2](https://github.com/rhysmcneill/croc/pull/2) in [rhysmcneill/croc](https://github.com/rhysmcneill/croc)
 4. 🎉 Merged PR [#1](https://github.com/rhysmcneill/croc/pull/1) in [rhysmcneill/croc](https://github.com/rhysmcneill/croc)
 5. 💪 Opened PR [#1](https://github.com/rhysmcneill/croc/pull/1) in [rhysmcneill/croc](https://github.com/rhysmcneill/croc)
-6. 🗣 Commented on [#117](https://github.com/yuluo-yx/typo/issues/117#issuecomment-4275727837) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-7. 🗣 Commented on [#57](https://github.com/yuluo-yx/typo/pull/57#issuecomment-4273569768) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-8. 🗣 Commented on [#1326](https://github.com/rtk-ai/rtk/issues/1326#issuecomment-4266040019) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
-9. 🗣 Commented on [#57](https://github.com/yuluo-yx/typo/pull/57#issuecomment-4261934673) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-10. 🗣 Commented on [#57](https://github.com/yuluo-yx/typo/pull/57#issuecomment-4253978630) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+6. 🗣 Commented on [#57](https://github.com/yuluo-yx/typo/pull/57#issuecomment-4273569768) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+7. 🗣 Commented on [#57](https://github.com/yuluo-yx/typo/pull/57#issuecomment-4261934673) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+8. 🗣 Commented on [#57](https://github.com/yuluo-yx/typo/pull/57#issuecomment-4253978630) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+9. 🎉 Merged PR [#89](https://github.com/yuluo-yx/typo/pull/89) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+10. 🎉 Merged PR [#88](https://github.com/yuluo-yx/typo/pull/88) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
 <!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhysmcneill&theme=redical)
