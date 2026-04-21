@@ -59,16 +59,16 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/rhysmcneill/ssmctl/pull/4) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-2. 🎉 Merged PR [#2](https://github.com/rhysmcneill/ssmctl/pull/2) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-3. 💪 Opened PR [#2](https://github.com/rhysmcneill/ssmctl/pull/2) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-4. 🗣 Commented on [#117](https://github.com/yuluo-yx/typo/issues/117#issuecomment-4291107459) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-5. 🗣 Commented on [#120](https://github.com/yuluo-yx/typo/pull/120#issuecomment-4291000019) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-6. 🗣 Commented on [#1093](https://github.com/schollz/croc/pull/1093#issuecomment-4278670169) in [schollz/croc](https://github.com/schollz/croc)
-7. 🎉 Merged PR [#32008](https://github.com/helm/helm/pull/32008) in [helm/helm](https://github.com/helm/helm)
-8. 💪 Opened PR [#1093](https://github.com/schollz/croc/pull/1093) in [schollz/croc](https://github.com/schollz/croc)
-9. 🎉 Merged PR [#2](https://github.com/rhysmcneill/croc/pull/2) in [rhysmcneill/croc](https://github.com/rhysmcneill/croc)
-10. 💪 Opened PR [#2](https://github.com/rhysmcneill/croc/pull/2) in [rhysmcneill/croc](https://github.com/rhysmcneill/croc)
+1. 🎉 Merged PR [#4](https://github.com/rhysmcneill/ssmctl/pull/4) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+2. 💪 Opened PR [#4](https://github.com/rhysmcneill/ssmctl/pull/4) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+3. 🎉 Merged PR [#2](https://github.com/rhysmcneill/ssmctl/pull/2) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+4. 💪 Opened PR [#2](https://github.com/rhysmcneill/ssmctl/pull/2) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+5. 🗣 Commented on [#117](https://github.com/yuluo-yx/typo/issues/117#issuecomment-4291107459) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+6. 🗣 Commented on [#120](https://github.com/yuluo-yx/typo/pull/120#issuecomment-4291000019) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+7. 🗣 Commented on [#1093](https://github.com/schollz/croc/pull/1093#issuecomment-4278670169) in [schollz/croc](https://github.com/schollz/croc)
+8. 🎉 Merged PR [#32008](https://github.com/helm/helm/pull/32008) in [helm/helm](https://github.com/helm/helm)
+9. 💪 Opened PR [#1093](https://github.com/schollz/croc/pull/1093) in [schollz/croc](https://github.com/schollz/croc)
+10. 🎉 Merged PR [#2](https://github.com/rhysmcneill/croc/pull/2) in [rhysmcneill/croc](https://github.com/rhysmcneill/croc)
 <!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhysmcneill&theme=redical)
