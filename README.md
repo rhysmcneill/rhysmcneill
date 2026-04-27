@@ -59,16 +59,16 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/rhysmcneill/ssmctl/pull/40#issuecomment-4328412434) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-2. 🗣 Commented on [#134](https://github.com/yuluo-yx/typo/issues/134#issuecomment-4328400990) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
-3. 🔒 Closed issue [#24](https://github.com/rhysmcneill/ssmctl/issues/24) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-4. 🗣 Commented on [#24](https://github.com/rhysmcneill/ssmctl/issues/24#issuecomment-4327011838) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-5. 🗣 Commented on [#28](https://github.com/rhysmcneill/ssmctl/pull/28#issuecomment-4327005246) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-6. 🔒 Closed issue [#25](https://github.com/rhysmcneill/ssmctl/issues/25) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-7. 🗣 Commented on [#29](https://github.com/rhysmcneill/ssmctl/pull/29#issuecomment-4325035476) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-8. 🗣 Commented on [#40](https://github.com/rhysmcneill/ssmctl/pull/40#issuecomment-4325024931) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-9. 🗣 Commented on [#40](https://github.com/rhysmcneill/ssmctl/pull/40#issuecomment-4324969256) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-10. 🗣 Commented on [#42](https://github.com/rhysmcneill/ssmctl/pull/42#issuecomment-4324909708) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+1. 🗣 Commented on [#43](https://github.com/rhysmcneill/ssmctl/pull/43#issuecomment-4329378577) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+2. 🗣 Commented on [#42](https://github.com/rhysmcneill/ssmctl/pull/42#issuecomment-4329322520) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+3. 🗣 Commented on [#40](https://github.com/rhysmcneill/ssmctl/pull/40#issuecomment-4328412434) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+4. 🗣 Commented on [#134](https://github.com/yuluo-yx/typo/issues/134#issuecomment-4328400990) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+5. 🔒 Closed issue [#24](https://github.com/rhysmcneill/ssmctl/issues/24) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+6. 🗣 Commented on [#24](https://github.com/rhysmcneill/ssmctl/issues/24#issuecomment-4327011838) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+7. 🗣 Commented on [#28](https://github.com/rhysmcneill/ssmctl/pull/28#issuecomment-4327005246) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+8. 🔒 Closed issue [#25](https://github.com/rhysmcneill/ssmctl/issues/25) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+9. 🗣 Commented on [#29](https://github.com/rhysmcneill/ssmctl/pull/29#issuecomment-4325035476) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+10. 🗣 Commented on [#40](https://github.com/rhysmcneill/ssmctl/pull/40#issuecomment-4325024931) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
 <!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhysmcneill&theme=redical)
