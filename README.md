@@ -59,16 +59,16 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#12](https://github.com/rhysmcneill/ssmctl/issues/12) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-2. 🗣 Commented on [#12](https://github.com/rhysmcneill/ssmctl/issues/12#issuecomment-4395233675) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-3. ℹ️ Labeled issue [#62](https://github.com/rhysmcneill/ssmctl/issues/62) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+1. 🗣 Commented on [#60](https://github.com/rhysmcneill/ssmctl/pull/60#issuecomment-4400054021) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+2. 🔒 Closed issue [#12](https://github.com/rhysmcneill/ssmctl/issues/12) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+3. 🗣 Commented on [#12](https://github.com/rhysmcneill/ssmctl/issues/12#issuecomment-4395233675) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
 4. ℹ️ Labeled issue [#62](https://github.com/rhysmcneill/ssmctl/issues/62) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-5. ❗ Opened issue [#62](https://github.com/rhysmcneill/ssmctl/issues/62) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-6. 🎉 Merged PR [#61](https://github.com/rhysmcneill/ssmctl/pull/61) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-7. 💪 Opened PR [#61](https://github.com/rhysmcneill/ssmctl/pull/61) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-8. 🗣 Commented on [#12](https://github.com/rhysmcneill/ssmctl/issues/12#issuecomment-4394880137) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-9. ℹ️ Assigned issue [#12](https://github.com/rhysmcneill/ssmctl/issues/12) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-10. 🗣 Commented on [#7](https://github.com/rhysmcneill/ssmctl/issues/7#issuecomment-4391440357) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+5. ℹ️ Labeled issue [#62](https://github.com/rhysmcneill/ssmctl/issues/62) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+6. ❗ Opened issue [#62](https://github.com/rhysmcneill/ssmctl/issues/62) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+7. 🎉 Merged PR [#61](https://github.com/rhysmcneill/ssmctl/pull/61) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+8. 💪 Opened PR [#61](https://github.com/rhysmcneill/ssmctl/pull/61) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+9. 🗣 Commented on [#12](https://github.com/rhysmcneill/ssmctl/issues/12#issuecomment-4394880137) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+10. ℹ️ Assigned issue [#12](https://github.com/rhysmcneill/ssmctl/issues/12) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
 <!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhysmcneill&theme=redical)
