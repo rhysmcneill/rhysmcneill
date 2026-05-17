@@ -59,14 +59,14 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#88](https://github.com/rhysmcneill/ssmctl/pull/88) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-2. 🔒 Closed issue [#85](https://github.com/rhysmcneill/ssmctl/issues/85) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-3. 💪 Opened PR [#88](https://github.com/rhysmcneill/ssmctl/pull/88) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-4. ℹ️ Labeled issue [#86](https://github.com/rhysmcneill/ssmctl/issues/86) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+1. 🗣 Commented on [#85](https://github.com/rhysmcneill/ssmctl/issues/85#issuecomment-4472616669) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+2. 🎉 Merged PR [#88](https://github.com/rhysmcneill/ssmctl/pull/88) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+3. 🔒 Closed issue [#85](https://github.com/rhysmcneill/ssmctl/issues/85) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+4. 💪 Opened PR [#88](https://github.com/rhysmcneill/ssmctl/pull/88) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
 5. ℹ️ Labeled issue [#86](https://github.com/rhysmcneill/ssmctl/issues/86) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-6. ❗ Opened issue [#86](https://github.com/rhysmcneill/ssmctl/issues/86) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-7. ℹ️ Unlabeled issue [#85](https://github.com/rhysmcneill/ssmctl/issues/85) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-8. ℹ️ Labeled issue [#85](https://github.com/rhysmcneill/ssmctl/issues/85) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+6. ℹ️ Labeled issue [#86](https://github.com/rhysmcneill/ssmctl/issues/86) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+7. ❗ Opened issue [#86](https://github.com/rhysmcneill/ssmctl/issues/86) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+8. ℹ️ Unlabeled issue [#85](https://github.com/rhysmcneill/ssmctl/issues/85) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
 9. ℹ️ Labeled issue [#85](https://github.com/rhysmcneill/ssmctl/issues/85) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
 10. ℹ️ Labeled issue [#85](https://github.com/rhysmcneill/ssmctl/issues/85) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
 <!--END_SECTION:activity-->
