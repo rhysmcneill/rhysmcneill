@@ -59,16 +59,16 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#98](https://github.com/rhysmcneill/ssmctl/pull/98) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-2. 🔒 Closed issue [#86](https://github.com/rhysmcneill/ssmctl/issues/86) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-3. 💪 Opened PR [#98](https://github.com/rhysmcneill/ssmctl/pull/98) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-4. 🗣 Commented on [#93](https://github.com/rhysmcneill/ssmctl/pull/93#issuecomment-4552086419) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-5. 🔒 Closed issue [#91](https://github.com/rhysmcneill/ssmctl/issues/91) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-6. ❗ Opened issue [#6354](https://github.com/akuity/kargo/issues/6354) in [akuity/kargo](https://github.com/akuity/kargo)
-7. 🎉 Merged PR [#6352](https://github.com/akuity/kargo/pull/6352) in [akuity/kargo](https://github.com/akuity/kargo)
-8. 💪 Opened PR [#6352](https://github.com/akuity/kargo/pull/6352) in [akuity/kargo](https://github.com/akuity/kargo)
-9. ❗ Opened issue [#6351](https://github.com/akuity/kargo/issues/6351) in [akuity/kargo](https://github.com/akuity/kargo)
-10. 🔒 Closed issue [#168](https://github.com/yuluo-yx/typo/issues/168) in [yuluo-yx/typo](https://github.com/yuluo-yx/typo)
+1. 🎉 Merged PR [#99](https://github.com/rhysmcneill/ssmctl/pull/99) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+2. 🔒 Closed issue [#16](https://github.com/rhysmcneill/ssmctl/issues/16) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+3. 💪 Opened PR [#99](https://github.com/rhysmcneill/ssmctl/pull/99) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+4. 🎉 Merged PR [#98](https://github.com/rhysmcneill/ssmctl/pull/98) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+5. 🔒 Closed issue [#86](https://github.com/rhysmcneill/ssmctl/issues/86) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+6. 💪 Opened PR [#98](https://github.com/rhysmcneill/ssmctl/pull/98) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+7. 🗣 Commented on [#93](https://github.com/rhysmcneill/ssmctl/pull/93#issuecomment-4552086419) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+8. 🔒 Closed issue [#91](https://github.com/rhysmcneill/ssmctl/issues/91) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+9. ❗ Opened issue [#6354](https://github.com/akuity/kargo/issues/6354) in [akuity/kargo](https://github.com/akuity/kargo)
+10. 🎉 Merged PR [#6352](https://github.com/akuity/kargo/pull/6352) in [akuity/kargo](https://github.com/akuity/kargo)
 <!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhysmcneill&theme=redical)
