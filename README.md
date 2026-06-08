@@ -59,16 +59,16 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#205](https://github.com/runkids/skillshare/issues/205#issuecomment-4640476693) in [runkids/skillshare](https://github.com/runkids/skillshare)
-2. ❗ Opened issue [#205](https://github.com/runkids/skillshare/issues/205) in [runkids/skillshare](https://github.com/runkids/skillshare)
-3. 🎉 Merged PR [#110](https://github.com/rhysmcneill/ssmctl/pull/110) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-4. 💪 Opened PR [#110](https://github.com/rhysmcneill/ssmctl/pull/110) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-5. 🗣 Commented on [#109](https://github.com/rhysmcneill/ssmctl/pull/109#issuecomment-4638020783) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-6. 🗣 Commented on [#23](https://github.com/rhysmcneill/ssmctl/issues/23#issuecomment-4637656852) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-7. 🗣 Commented on [#102](https://github.com/rhysmcneill/ssmctl/pull/102#issuecomment-4619708103) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-8. 🗣 Commented on [#103](https://github.com/rhysmcneill/ssmctl/pull/103#issuecomment-4619679818) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-9. 🗣 Commented on [#104](https://github.com/rhysmcneill/ssmctl/pull/104#issuecomment-4619645778) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-10. 🗣 Commented on [#109](https://github.com/rhysmcneill/ssmctl/pull/109#issuecomment-4619636128) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+1. 🔒 Closed issue [#62](https://github.com/rhysmcneill/ssmctl/issues/62) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+2. 🗣 Commented on [#111](https://github.com/rhysmcneill/ssmctl/pull/111#issuecomment-4651880215) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+3. 🎉 Merged PR [#118](https://github.com/rhysmcneill/ssmctl/pull/118) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+4. 💪 Opened PR [#118](https://github.com/rhysmcneill/ssmctl/pull/118) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+5. 🗣 Commented on [#109](https://github.com/rhysmcneill/ssmctl/pull/109#issuecomment-4651746131) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+6. 🗣 Commented on [#205](https://github.com/runkids/skillshare/issues/205#issuecomment-4640476693) in [runkids/skillshare](https://github.com/runkids/skillshare)
+7. ❗ Opened issue [#205](https://github.com/runkids/skillshare/issues/205) in [runkids/skillshare](https://github.com/runkids/skillshare)
+8. 🎉 Merged PR [#110](https://github.com/rhysmcneill/ssmctl/pull/110) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+9. 💪 Opened PR [#110](https://github.com/rhysmcneill/ssmctl/pull/110) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+10. 🗣 Commented on [#109](https://github.com/rhysmcneill/ssmctl/pull/109#issuecomment-4638020783) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
 <!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhysmcneill&theme=redical)
