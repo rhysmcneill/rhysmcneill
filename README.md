@@ -59,16 +59,16 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/rhysmcneill/poc-helm-monorepo/pull/2) in [rhysmcneill/poc-helm-monorepo](https://github.com/rhysmcneill/poc-helm-monorepo)
-2. 🎉 Merged PR [#17](https://github.com/rhysmcneill/helm-semver/pull/17) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
-3. 💪 Opened PR [#17](https://github.com/rhysmcneill/helm-semver/pull/17) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
-4. 💪 Opened PR [#2](https://github.com/rhysmcneill/poc-helm-monorepo/pull/2) in [rhysmcneill/poc-helm-monorepo](https://github.com/rhysmcneill/poc-helm-monorepo)
-5. 🎉 Merged PR [#15](https://github.com/rhysmcneill/helm-semver/pull/15) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
-6. 💪 Opened PR [#15](https://github.com/rhysmcneill/helm-semver/pull/15) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
-7. 🎉 Merged PR [#13](https://github.com/rhysmcneill/helm-semver/pull/13) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
-8. 💪 Opened PR [#13](https://github.com/rhysmcneill/helm-semver/pull/13) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
-9. 🎉 Merged PR [#1](https://github.com/rhysmcneill/poc-helm-monorepo/pull/1) in [rhysmcneill/poc-helm-monorepo](https://github.com/rhysmcneill/poc-helm-monorepo)
-10. 💪 Opened PR [#1](https://github.com/rhysmcneill/poc-helm-monorepo/pull/1) in [rhysmcneill/poc-helm-monorepo](https://github.com/rhysmcneill/poc-helm-monorepo)
+1. 🎉 Merged PR [#20](https://github.com/rhysmcneill/helm-semver/pull/20) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
+2. 🗣 Commented on [#124](https://github.com/rhysmcneill/ssmctl/pull/124#issuecomment-4728638303) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+3. 💪 Opened PR [#20](https://github.com/rhysmcneill/helm-semver/pull/20) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
+4. ℹ️ Labeled issue [#19](https://github.com/rhysmcneill/helm-semver/issues/19) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
+5. ❗ Opened issue [#19](https://github.com/rhysmcneill/helm-semver/issues/19) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
+6. 🎉 Merged PR [#2](https://github.com/rhysmcneill/poc-helm-monorepo/pull/2) in [rhysmcneill/poc-helm-monorepo](https://github.com/rhysmcneill/poc-helm-monorepo)
+7. 🎉 Merged PR [#17](https://github.com/rhysmcneill/helm-semver/pull/17) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
+8. 💪 Opened PR [#17](https://github.com/rhysmcneill/helm-semver/pull/17) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
+9. 💪 Opened PR [#2](https://github.com/rhysmcneill/poc-helm-monorepo/pull/2) in [rhysmcneill/poc-helm-monorepo](https://github.com/rhysmcneill/poc-helm-monorepo)
+10. 🎉 Merged PR [#15](https://github.com/rhysmcneill/helm-semver/pull/15) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
 <!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhysmcneill&theme=redical)
