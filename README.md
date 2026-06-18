@@ -59,16 +59,16 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#128](https://github.com/rhysmcneill/ssmctl/pull/128#issuecomment-4739246597) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-2. ℹ️ Labeled issue [#30](https://github.com/rhysmcneill/helm-semver/issues/30) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
+1. 🗣 Commented on [#127](https://github.com/rhysmcneill/ssmctl/pull/127#issuecomment-4745798016) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+2. 🗣 Commented on [#128](https://github.com/rhysmcneill/ssmctl/pull/128#issuecomment-4739246597) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
 3. ℹ️ Labeled issue [#30](https://github.com/rhysmcneill/helm-semver/issues/30) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
 4. ℹ️ Labeled issue [#30](https://github.com/rhysmcneill/helm-semver/issues/30) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
-5. ❗ Opened issue [#30](https://github.com/rhysmcneill/helm-semver/issues/30) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
-6. ℹ️ Labeled issue [#29](https://github.com/rhysmcneill/helm-semver/issues/29) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
+5. ℹ️ Labeled issue [#30](https://github.com/rhysmcneill/helm-semver/issues/30) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
+6. ❗ Opened issue [#30](https://github.com/rhysmcneill/helm-semver/issues/30) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
 7. ℹ️ Labeled issue [#29](https://github.com/rhysmcneill/helm-semver/issues/29) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
 8. ℹ️ Labeled issue [#29](https://github.com/rhysmcneill/helm-semver/issues/29) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
-9. ❗ Opened issue [#29](https://github.com/rhysmcneill/helm-semver/issues/29) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
-10. ℹ️ Labeled issue [#28](https://github.com/rhysmcneill/helm-semver/issues/28) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
+9. ℹ️ Labeled issue [#29](https://github.com/rhysmcneill/helm-semver/issues/29) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
+10. ❗ Opened issue [#29](https://github.com/rhysmcneill/helm-semver/issues/29) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
 <!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhysmcneill&theme=redical)
