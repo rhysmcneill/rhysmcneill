@@ -59,16 +59,16 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#120](https://github.com/rhysmcneill/ssmctl/issues/120) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-2. ℹ️ Assigned issue [#120](https://github.com/rhysmcneill/ssmctl/issues/120) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-3. ℹ️ Assigned issue [#120](https://github.com/rhysmcneill/ssmctl/issues/120) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-4. 🗣 Commented on [#127](https://github.com/rhysmcneill/ssmctl/pull/127#issuecomment-4745798016) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-5. 🗣 Commented on [#128](https://github.com/rhysmcneill/ssmctl/pull/128#issuecomment-4739246597) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-6. ℹ️ Labeled issue [#30](https://github.com/rhysmcneill/helm-semver/issues/30) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
-7. ℹ️ Labeled issue [#30](https://github.com/rhysmcneill/helm-semver/issues/30) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
-8. ℹ️ Labeled issue [#30](https://github.com/rhysmcneill/helm-semver/issues/30) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
-9. ❗ Opened issue [#30](https://github.com/rhysmcneill/helm-semver/issues/30) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
-10. ℹ️ Labeled issue [#29](https://github.com/rhysmcneill/helm-semver/issues/29) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
+1. 🔒 Closed issue [#22](https://github.com/rhysmcneill/helm-semver/issues/22) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
+2. 💪 Opened PR [#44](https://github.com/rhysmcneill/helm-semver/pull/44) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
+3. ℹ️ Unlabeled issue [#132](https://github.com/rhysmcneill/ssmctl/issues/132) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+4. 🗣 Commented on [#135](https://github.com/rhysmcneill/ssmctl/pull/135#issuecomment-4783141327) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+5. 🗣 Commented on [#130](https://github.com/rhysmcneill/ssmctl/pull/130#issuecomment-4783137215) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+6. ℹ️ Assigned issue [#31](https://github.com/rhysmcneill/helm-semver/issues/31) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
+7. 🗣 Commented on [#133](https://github.com/rhysmcneill/ssmctl/pull/133#issuecomment-4782874587) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+8. 🔒 Closed issue [#120](https://github.com/rhysmcneill/ssmctl/issues/120) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+9. ℹ️ Assigned issue [#120](https://github.com/rhysmcneill/ssmctl/issues/120) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+10. ℹ️ Assigned issue [#120](https://github.com/rhysmcneill/ssmctl/issues/120) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
 <!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhysmcneill&theme=redical)
