@@ -59,16 +59,16 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#170](https://github.com/rhysmcneill/ssmctl/issues/170) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-2. ℹ️ Unlabeled issue [#170](https://github.com/rhysmcneill/ssmctl/issues/170) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-3. ℹ️ Labeled issue [#170](https://github.com/rhysmcneill/ssmctl/issues/170) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-4. ❗ Opened issue [#170](https://github.com/rhysmcneill/ssmctl/issues/170) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-5. ℹ️ Labeled issue [#168](https://github.com/rhysmcneill/ssmctl/issues/168) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-6. ℹ️ Unlabeled issue [#168](https://github.com/rhysmcneill/ssmctl/issues/168) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-7. ℹ️ Unlabeled issue [#168](https://github.com/rhysmcneill/ssmctl/issues/168) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-8. ℹ️ Unlabeled issue [#169](https://github.com/rhysmcneill/ssmctl/issues/169) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-9. ℹ️ Labeled issue [#169](https://github.com/rhysmcneill/ssmctl/issues/169) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-10. ❗ Opened issue [#169](https://github.com/rhysmcneill/ssmctl/issues/169) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+1. 🔒 Closed issue [#165](https://github.com/rhysmcneill/ssmctl/issues/165) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+2. 🗣 Commented on [#171](https://github.com/rhysmcneill/ssmctl/pull/171#issuecomment-5039211674) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+3. ℹ️ Assigned issue [#170](https://github.com/rhysmcneill/ssmctl/issues/170) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+4. ℹ️ Unlabeled issue [#170](https://github.com/rhysmcneill/ssmctl/issues/170) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+5. ℹ️ Labeled issue [#170](https://github.com/rhysmcneill/ssmctl/issues/170) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+6. ❗ Opened issue [#170](https://github.com/rhysmcneill/ssmctl/issues/170) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+7. ℹ️ Labeled issue [#168](https://github.com/rhysmcneill/ssmctl/issues/168) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+8. ℹ️ Unlabeled issue [#168](https://github.com/rhysmcneill/ssmctl/issues/168) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+9. ℹ️ Unlabeled issue [#168](https://github.com/rhysmcneill/ssmctl/issues/168) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+10. ℹ️ Unlabeled issue [#169](https://github.com/rhysmcneill/ssmctl/issues/169) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
 <!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhysmcneill&theme=redical)
