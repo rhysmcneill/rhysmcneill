@@ -59,16 +59,16 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#1](https://github.com/rhysmcneill/agentic-idp/issues/1) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-2. ❗ Opened issue [#9](https://github.com/rhysmcneill/agentic-idp/issues/9) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-3. ℹ️ Labeled issue [#9](https://github.com/rhysmcneill/agentic-idp/issues/9) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-4. ℹ️ Labeled issue [#8](https://github.com/rhysmcneill/agentic-idp/issues/8) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-5. ❗ Opened issue [#8](https://github.com/rhysmcneill/agentic-idp/issues/8) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-6. ℹ️ Labeled issue [#7](https://github.com/rhysmcneill/agentic-idp/issues/7) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-7. ❗ Opened issue [#7](https://github.com/rhysmcneill/agentic-idp/issues/7) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-8. ℹ️ Labeled issue [#6](https://github.com/rhysmcneill/agentic-idp/issues/6) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-9. ❗ Opened issue [#6](https://github.com/rhysmcneill/agentic-idp/issues/6) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-10. ℹ️ Labeled issue [#5](https://github.com/rhysmcneill/agentic-idp/issues/5) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+1. 🎉 Merged PR [#10](https://github.com/rhysmcneill/agentic-idp/pull/10) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+2. 💪 Opened PR [#10](https://github.com/rhysmcneill/agentic-idp/pull/10) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+3. ℹ️ Assigned issue [#2](https://github.com/rhysmcneill/agentic-idp/issues/2) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+4. ℹ️ Assigned issue [#1](https://github.com/rhysmcneill/agentic-idp/issues/1) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+5. ❗ Opened issue [#9](https://github.com/rhysmcneill/agentic-idp/issues/9) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+6. ℹ️ Labeled issue [#9](https://github.com/rhysmcneill/agentic-idp/issues/9) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+7. ℹ️ Labeled issue [#8](https://github.com/rhysmcneill/agentic-idp/issues/8) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+8. ❗ Opened issue [#8](https://github.com/rhysmcneill/agentic-idp/issues/8) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+9. ℹ️ Labeled issue [#7](https://github.com/rhysmcneill/agentic-idp/issues/7) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+10. ❗ Opened issue [#7](https://github.com/rhysmcneill/agentic-idp/issues/7) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
 <!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhysmcneill&theme=redical)
