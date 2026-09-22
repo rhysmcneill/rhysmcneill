@@ -59,16 +59,16 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/rhysmcneill/helm-semver/pull/63#issuecomment-5243293472) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
-2. 🎉 Merged PR [#183](https://github.com/rhysmcneill/ssmctl/pull/183) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-3. 🔒 Closed issue [#170](https://github.com/rhysmcneill/ssmctl/issues/170) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-4. 💪 Opened PR [#183](https://github.com/rhysmcneill/ssmctl/pull/183) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-5. 🔒 Closed issue [#168](https://github.com/rhysmcneill/ssmctl/issues/168) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-6. 🗣 Commented on [#205](https://github.com/runkids/skillshare/issues/205#issuecomment-5042672379) in [runkids/skillshare](https://github.com/runkids/skillshare)
-7. 🔒 Closed issue [#165](https://github.com/rhysmcneill/ssmctl/issues/165) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-8. 🗣 Commented on [#171](https://github.com/rhysmcneill/ssmctl/pull/171#issuecomment-5039211674) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-9. ℹ️ Assigned issue [#170](https://github.com/rhysmcneill/ssmctl/issues/170) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-10. ℹ️ Unlabeled issue [#170](https://github.com/rhysmcneill/ssmctl/issues/170) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+1. ℹ️ Assigned issue [#1](https://github.com/rhysmcneill/agentic-idp/issues/1) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+2. ❗ Opened issue [#9](https://github.com/rhysmcneill/agentic-idp/issues/9) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+3. ℹ️ Labeled issue [#9](https://github.com/rhysmcneill/agentic-idp/issues/9) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+4. ℹ️ Labeled issue [#8](https://github.com/rhysmcneill/agentic-idp/issues/8) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+5. ❗ Opened issue [#8](https://github.com/rhysmcneill/agentic-idp/issues/8) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+6. ℹ️ Labeled issue [#7](https://github.com/rhysmcneill/agentic-idp/issues/7) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+7. ❗ Opened issue [#7](https://github.com/rhysmcneill/agentic-idp/issues/7) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+8. ℹ️ Labeled issue [#6](https://github.com/rhysmcneill/agentic-idp/issues/6) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+9. ❗ Opened issue [#6](https://github.com/rhysmcneill/agentic-idp/issues/6) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+10. ℹ️ Labeled issue [#5](https://github.com/rhysmcneill/agentic-idp/issues/5) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
 <!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhysmcneill&theme=redical)
