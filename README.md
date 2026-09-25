@@ -1,6 +1,6 @@
 # Hi, I'm Rhys 👋
 
-### **Senior DevOps Engineer / Platform Engineer / Cloud Infrastructure Engineer** 
+### **Senior DevOps / Platform / Cloud Engineer** 
 
 ### Building reliable and secure cloud infrastructure
 
