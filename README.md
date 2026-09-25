@@ -19,7 +19,7 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 
 - 🤖 Actively building an agentic AI skills library called [agentic-ai-library](https://github.com/rhysmcneill/agentic-ai-library) for standardizing and orchestrating AI agent behavior across companies, projects, teams and repositories.
 - 🛡️ Contributing to and building opensource software to help the world be a better place. Check out my most recent opensource tools [ssmctl](https://github.com/rhysmcneill/ssmctl) and [helm-semver](https://github.com/rhysmcneill/helm-semver). 
-- ⌨️ I am a core contributor and maintainer of [Typo](https://github.com/yuluo-yx/typo), a fully Open-Source Golang CLI that is replacing TheFuck - It does what it says, fixes all your CLI typos.
+- ⌨️ Building my own personal projects to help hone my skills, and develop new leading products in the Platform Engineering world.
 - 🚀 GitOps pipelines with ArgoCD, Kargo and help OSS projects set up release pipelines via GitHub Actions
 
 ## Stack
