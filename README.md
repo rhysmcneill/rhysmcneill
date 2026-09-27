@@ -12,7 +12,7 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 - 📫 [LinkedIn](https://www.linkedin.com/in/rhys-mcneill-cybsec/) · [Email](mailto:rhysmcneill7@hotmail.co.uk)
 
 ### Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rhysmcneill&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=rhysmcneill&theme=radical)
 
 
 ## Currently Building
@@ -71,4 +71,4 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 10. ❗ Opened issue [#4392](https://github.com/floci-io/floci/issues/4392) in [floci-io/floci](https://github.com/floci-io/floci)
 <!--END_SECTION:activity-->
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhysmcneill&theme=redical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhysmcneill&theme=radical)
