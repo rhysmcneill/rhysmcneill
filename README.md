@@ -71,4 +71,4 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 10. ❗ Opened issue [#4392](https://github.com/floci-io/floci/issues/4392) in [floci-io/floci](https://github.com/floci-io/floci)
 <!--END_SECTION:activity-->
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhysmcneill&theme=radical)
+![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhysmcneill&theme=radical)
