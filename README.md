@@ -59,16 +59,16 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/rhysmcneill/agentic-idp/pull/25) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-2. 💪 Opened PR [#25](https://github.com/rhysmcneill/agentic-idp/pull/25) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-3. 🎉 Merged PR [#24](https://github.com/rhysmcneill/agentic-idp/pull/24) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-4. 💪 Opened PR [#24](https://github.com/rhysmcneill/agentic-idp/pull/24) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-5. 🎉 Merged PR [#225](https://github.com/rhysmcneill/ssmctl/pull/225) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-6. 🔒 Closed issue [#166](https://github.com/rhysmcneill/ssmctl/issues/166) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-7. ℹ️ Labeled issue [#226](https://github.com/rhysmcneill/ssmctl/issues/226) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-8. ℹ️ Unlabeled issue [#226](https://github.com/rhysmcneill/ssmctl/issues/226) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-9. ℹ️ Unlabeled issue [#227](https://github.com/rhysmcneill/ssmctl/issues/227) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
-10. ℹ️ Unlabeled issue [#229](https://github.com/rhysmcneill/ssmctl/issues/229) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+1. ❗ Opened issue [#24067](https://github.com/goharbor/harbor/issues/24067) in [goharbor/harbor](https://github.com/goharbor/harbor)
+2. 🎉 Merged PR [#25](https://github.com/rhysmcneill/agentic-idp/pull/25) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+3. 💪 Opened PR [#25](https://github.com/rhysmcneill/agentic-idp/pull/25) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+4. 🎉 Merged PR [#24](https://github.com/rhysmcneill/agentic-idp/pull/24) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+5. 💪 Opened PR [#24](https://github.com/rhysmcneill/agentic-idp/pull/24) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+6. 🎉 Merged PR [#225](https://github.com/rhysmcneill/ssmctl/pull/225) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+7. 🔒 Closed issue [#166](https://github.com/rhysmcneill/ssmctl/issues/166) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+8. ℹ️ Labeled issue [#226](https://github.com/rhysmcneill/ssmctl/issues/226) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+9. ℹ️ Unlabeled issue [#226](https://github.com/rhysmcneill/ssmctl/issues/226) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+10. ℹ️ Unlabeled issue [#227](https://github.com/rhysmcneill/ssmctl/issues/227) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
 <!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhysmcneill&theme=radical)
