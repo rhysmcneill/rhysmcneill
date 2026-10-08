@@ -59,16 +59,16 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#650](https://github.com/goharbor/terraform-provider-harbor/issues/650) in [goharbor/terraform-provider-harbor](https://github.com/goharbor/terraform-provider-harbor)
-2. ℹ️ Assigned issue [#4](https://github.com/rhysmcneill/agentic-idp/issues/4) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-3. 🎉 Merged PR [#28](https://github.com/rhysmcneill/agentic-idp/pull/28) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-4. 💪 Opened PR [#28](https://github.com/rhysmcneill/agentic-idp/pull/28) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-5. ❗ Opened issue [#24067](https://github.com/goharbor/harbor/issues/24067) in [goharbor/harbor](https://github.com/goharbor/harbor)
-6. 🎉 Merged PR [#25](https://github.com/rhysmcneill/agentic-idp/pull/25) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-7. 💪 Opened PR [#25](https://github.com/rhysmcneill/agentic-idp/pull/25) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-8. 🎉 Merged PR [#24](https://github.com/rhysmcneill/agentic-idp/pull/24) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-9. 💪 Opened PR [#24](https://github.com/rhysmcneill/agentic-idp/pull/24) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-10. 🎉 Merged PR [#225](https://github.com/rhysmcneill/ssmctl/pull/225) in [rhysmcneill/ssmctl](https://github.com/rhysmcneill/ssmctl)
+1. 🗣 Commented on [#4630](https://github.com/kubernetes-sigs/external-dns/issues/4630#issuecomment-6054844286) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
+2. ❗ Opened issue [#650](https://github.com/goharbor/terraform-provider-harbor/issues/650) in [goharbor/terraform-provider-harbor](https://github.com/goharbor/terraform-provider-harbor)
+3. ℹ️ Assigned issue [#4](https://github.com/rhysmcneill/agentic-idp/issues/4) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+4. 🎉 Merged PR [#28](https://github.com/rhysmcneill/agentic-idp/pull/28) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+5. 💪 Opened PR [#28](https://github.com/rhysmcneill/agentic-idp/pull/28) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+6. ❗ Opened issue [#24067](https://github.com/goharbor/harbor/issues/24067) in [goharbor/harbor](https://github.com/goharbor/harbor)
+7. 🎉 Merged PR [#25](https://github.com/rhysmcneill/agentic-idp/pull/25) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+8. 💪 Opened PR [#25](https://github.com/rhysmcneill/agentic-idp/pull/25) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+9. 🎉 Merged PR [#24](https://github.com/rhysmcneill/agentic-idp/pull/24) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+10. 💪 Opened PR [#24](https://github.com/rhysmcneill/agentic-idp/pull/24) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
 <!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhysmcneill&theme=radical)
