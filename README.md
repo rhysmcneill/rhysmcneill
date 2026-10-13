@@ -59,16 +59,16 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/rhysmcneill/agentic-idp/pull/31) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-2. ❌ Closed PR [#30](https://github.com/rhysmcneill/agentic-idp/pull/30) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-3. 💪 Opened PR [#31](https://github.com/rhysmcneill/agentic-idp/pull/31) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-4. 💪 Opened PR [#30](https://github.com/rhysmcneill/agentic-idp/pull/30) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-5. 🎉 Merged PR [#29](https://github.com/rhysmcneill/agentic-idp/pull/29) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-6. 💪 Opened PR [#29](https://github.com/rhysmcneill/agentic-idp/pull/29) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-7. 🗣 Commented on [#4630](https://github.com/kubernetes-sigs/external-dns/issues/4630#issuecomment-6054844286) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
-8. ❗ Opened issue [#650](https://github.com/goharbor/terraform-provider-harbor/issues/650) in [goharbor/terraform-provider-harbor](https://github.com/goharbor/terraform-provider-harbor)
-9. ℹ️ Assigned issue [#4](https://github.com/rhysmcneill/agentic-idp/issues/4) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-10. 🎉 Merged PR [#28](https://github.com/rhysmcneill/agentic-idp/pull/28) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+1. 🎉 Merged PR [#75](https://github.com/rhysmcneill/helm-semver/pull/75) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
+2. 💪 Opened PR [#75](https://github.com/rhysmcneill/helm-semver/pull/75) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
+3. ❌ Closed PR [#41](https://github.com/rhysmcneill/helm-semver/pull/41) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
+4. 🎉 Merged PR [#31](https://github.com/rhysmcneill/agentic-idp/pull/31) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+5. ❌ Closed PR [#30](https://github.com/rhysmcneill/agentic-idp/pull/30) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+6. 💪 Opened PR [#31](https://github.com/rhysmcneill/agentic-idp/pull/31) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+7. 💪 Opened PR [#30](https://github.com/rhysmcneill/agentic-idp/pull/30) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+8. 🎉 Merged PR [#29](https://github.com/rhysmcneill/agentic-idp/pull/29) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+9. 💪 Opened PR [#29](https://github.com/rhysmcneill/agentic-idp/pull/29) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+10. 🗣 Commented on [#4630](https://github.com/kubernetes-sigs/external-dns/issues/4630#issuecomment-6054844286) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
 <!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhysmcneill&theme=radical)
