@@ -59,16 +59,16 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#75](https://github.com/rhysmcneill/helm-semver/pull/75) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
-2. 💪 Opened PR [#75](https://github.com/rhysmcneill/helm-semver/pull/75) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
-3. ❌ Closed PR [#41](https://github.com/rhysmcneill/helm-semver/pull/41) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
-4. 🎉 Merged PR [#31](https://github.com/rhysmcneill/agentic-idp/pull/31) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-5. ❌ Closed PR [#30](https://github.com/rhysmcneill/agentic-idp/pull/30) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-6. 💪 Opened PR [#31](https://github.com/rhysmcneill/agentic-idp/pull/31) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-7. 💪 Opened PR [#30](https://github.com/rhysmcneill/agentic-idp/pull/30) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-8. 🎉 Merged PR [#29](https://github.com/rhysmcneill/agentic-idp/pull/29) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-9. 💪 Opened PR [#29](https://github.com/rhysmcneill/agentic-idp/pull/29) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
-10. 🗣 Commented on [#4630](https://github.com/kubernetes-sigs/external-dns/issues/4630#issuecomment-6054844286) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
+1. 💪 Opened PR [#37](https://github.com/rhysmcneill/agentic-idp/pull/37) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+2. ℹ️ Labeled PR [#35](https://github.com/rhysmcneill/agentic-idp/pull/35) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+3. ℹ️ Labeled PR [#36](https://github.com/rhysmcneill/agentic-idp/pull/36) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+4. ℹ️ Labeled PR [#34](https://github.com/rhysmcneill/agentic-idp/pull/34) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+5. 💪 Opened PR [#36](https://github.com/rhysmcneill/agentic-idp/pull/36) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+6. 💪 Opened PR [#35](https://github.com/rhysmcneill/agentic-idp/pull/35) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+7. 💪 Opened PR [#34](https://github.com/rhysmcneill/agentic-idp/pull/34) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+8. 💪 Opened PR [#33](https://github.com/rhysmcneill/agentic-idp/pull/33) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+9. 💪 Opened PR [#32](https://github.com/rhysmcneill/agentic-idp/pull/32) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
+10. 🔒 Closed issue [#3](https://github.com/rhysmcneill/agentic-idp/issues/3) in [rhysmcneill/agentic-idp](https://github.com/rhysmcneill/agentic-idp)
 <!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhysmcneill&theme=radical)
