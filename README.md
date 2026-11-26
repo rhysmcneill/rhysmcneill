@@ -59,16 +59,16 @@ I design and build cloud-native platforms on AWS using containerised orchestrato
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/rhysmcneill/agentic-ai-library/pull/8) in [rhysmcneill/agentic-ai-library](https://github.com/rhysmcneill/agentic-ai-library)
-2. 💪 Opened PR [#8](https://github.com/rhysmcneill/agentic-ai-library/pull/8) in [rhysmcneill/agentic-ai-library](https://github.com/rhysmcneill/agentic-ai-library)
-3. 🎉 Merged PR [#7](https://github.com/rhysmcneill/agentic-ai-library/pull/7) in [rhysmcneill/agentic-ai-library](https://github.com/rhysmcneill/agentic-ai-library)
-4. 💪 Opened PR [#7](https://github.com/rhysmcneill/agentic-ai-library/pull/7) in [rhysmcneill/agentic-ai-library](https://github.com/rhysmcneill/agentic-ai-library)
-5. 🎉 Merged PR [#6](https://github.com/rhysmcneill/agentic-ai-library/pull/6) in [rhysmcneill/agentic-ai-library](https://github.com/rhysmcneill/agentic-ai-library)
-6. 💪 Opened PR [#6](https://github.com/rhysmcneill/agentic-ai-library/pull/6) in [rhysmcneill/agentic-ai-library](https://github.com/rhysmcneill/agentic-ai-library)
-7. 🎉 Merged PR [#5](https://github.com/rhysmcneill/agentic-ai-library/pull/5) in [rhysmcneill/agentic-ai-library](https://github.com/rhysmcneill/agentic-ai-library)
-8. 💪 Opened PR [#5](https://github.com/rhysmcneill/agentic-ai-library/pull/5) in [rhysmcneill/agentic-ai-library](https://github.com/rhysmcneill/agentic-ai-library)
-9. 🎉 Merged PR [#58](https://github.com/rhysmcneill/deployground/pull/58) in [rhysmcneill/deployground](https://github.com/rhysmcneill/deployground)
-10. 💪 Opened PR [#58](https://github.com/rhysmcneill/deployground/pull/58) in [rhysmcneill/deployground](https://github.com/rhysmcneill/deployground)
+1. 🗣 Commented on [#85](https://github.com/rhysmcneill/helm-semver/pull/85#issuecomment-7194641251) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
+2. 🗣 Commented on [#82](https://github.com/rhysmcneill/helm-semver/pull/82#issuecomment-7194340549) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
+3. 🗣 Commented on [#83](https://github.com/rhysmcneill/helm-semver/pull/83#issuecomment-7194227305) in [rhysmcneill/helm-semver](https://github.com/rhysmcneill/helm-semver)
+4. 🎉 Merged PR [#8](https://github.com/rhysmcneill/agentic-ai-library/pull/8) in [rhysmcneill/agentic-ai-library](https://github.com/rhysmcneill/agentic-ai-library)
+5. 💪 Opened PR [#8](https://github.com/rhysmcneill/agentic-ai-library/pull/8) in [rhysmcneill/agentic-ai-library](https://github.com/rhysmcneill/agentic-ai-library)
+6. 🎉 Merged PR [#7](https://github.com/rhysmcneill/agentic-ai-library/pull/7) in [rhysmcneill/agentic-ai-library](https://github.com/rhysmcneill/agentic-ai-library)
+7. 💪 Opened PR [#7](https://github.com/rhysmcneill/agentic-ai-library/pull/7) in [rhysmcneill/agentic-ai-library](https://github.com/rhysmcneill/agentic-ai-library)
+8. 🎉 Merged PR [#6](https://github.com/rhysmcneill/agentic-ai-library/pull/6) in [rhysmcneill/agentic-ai-library](https://github.com/rhysmcneill/agentic-ai-library)
+9. 💪 Opened PR [#6](https://github.com/rhysmcneill/agentic-ai-library/pull/6) in [rhysmcneill/agentic-ai-library](https://github.com/rhysmcneill/agentic-ai-library)
+10. 🎉 Merged PR [#5](https://github.com/rhysmcneill/agentic-ai-library/pull/5) in [rhysmcneill/agentic-ai-library](https://github.com/rhysmcneill/agentic-ai-library)
 <!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhysmcneill&theme=radical)
